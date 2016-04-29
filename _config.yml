@@ -1,0 +1,28 @@
+name: Dill.kh
+favicon: null
+layout_spectrum: 0.929163494380191
+typography_spectrum: 0.6773118765559047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10316435270942748
+  lightness: 0.9702840426471084
+  saturation: 0.1024729423224926
+  rhythmicContrast: 0.6706590324174613
+purpose: []
